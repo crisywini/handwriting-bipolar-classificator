@@ -17,6 +17,10 @@
 - [ ] Yes
 - [ ] No
 
-# Created new models?
+# Created new models? 🐴🐎
+- [ ] Yes
+- [ ] No
+
+# Do you feel happy with the changes? 🐱‍💻
 - [ ] Yes
 - [ ] No
