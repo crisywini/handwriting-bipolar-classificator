@@ -1,0 +1,2 @@
+---Recall in cross validation---
+ Mean: 0.6 Standard deviation: 0.48989794855663565
