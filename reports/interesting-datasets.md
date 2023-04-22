@@ -20,3 +20,7 @@ https://www.kaggle.com/datasets/ahmadalijamali/bipolar-vs-non-bipolar-handwritin
 For finding what is Bipolar general definition please check the nature article:
 https://www.nature.com/articles/s41380-021-01091-4
 The language of handwriting is Persian."
+
+
+# Harry Potter dataset
+https://www.kaggle.com/datasets/gulsahdemiryurek/harry-potter-dataset
